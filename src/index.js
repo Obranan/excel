@@ -1,2 +1,3 @@
-import './module';
-console.log('Hellow worlds');
+import './scss/index.scss';
+
+console.log('Hello worlds');
